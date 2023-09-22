@@ -1,3 +1,4 @@
 # quest
-Configuration: JRE18, Tomcat9
-Technology stack: Java, HTML, JSP, CSS, Bootstrap, JUnit 
+ - Configuration: JRE 18, Tomcat 9
+
+- Technology stack: Java, HTML, JSP, CSS, Bootstrap, JUnit 
