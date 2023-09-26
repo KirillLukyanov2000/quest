@@ -10,10 +10,27 @@
     <link href="static/main.css" rel="stylesheet">
     <script src="<c:url value="/static/jquery-3.6.0.min.js"/>"></script>
     <script src="<c:url value="/static/main.js"/>"></script>
-        <title>Driving Quest &#X1f6a8; &#X1f6a8; &#X1f6a8; &#X1f6a8; &#X1f6a7;</title>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#myModal').modal('show');
+        });
+    </script>
+    <title>Driving Quest &#X1f6a8; &#X1f6a8; &#X1f6a8; &#X1f6a8; &#X1f6a7;</title>
     <link rel="shortcut icon" href="/static/img/favicon.png">
 </head>
 <body>
+<div id="myModal" class="modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Электромобиль &nbsp; - &nbsp; WIKIPEDIA</h5>
+            </div>
+            <div class="modal-body text-center">
+                <p>Электромобиль — автомобиль, приводимый в движение одним или несколькими электродвигателями с питанием от независимого источника электроэнергии (аккумуляторов, топливных элементов, конденсаторов и т. п.), а не двигателем внутреннего сгорания. Электромобиль следует отличать от автомобилей с двигателем внутреннего сгорания и электрической передачей, а также от троллейбусов и трамваев.</p>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="p-3 mb-2 bg-primary text-white"><p class="text-center fs-2 text-decoration-underline">DRIVING ELECTRIC CARS
     QUEST</p></div>
 <nav class="navbar" style="background-color: lightsteelblue">
@@ -24,7 +41,6 @@
         </a>
         <img src="/static/img/electrocar2.jpg" alt="Logo" width="450" height="300"
              class="d-inline-block align-text-center">
-
     </div>
 </nav>
 <hr>
