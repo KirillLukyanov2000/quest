@@ -1,4 +1,4 @@
-# quest
+# Driving electric car quest
 
 Configuration: JRE 18, Tomcat 9
 
