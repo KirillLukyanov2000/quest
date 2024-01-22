@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d75260d-be37-4aca-8d0c-1788c216e13d" name="Changes" comment="version 2.0">
+    <list default="true" id="4d75260d-be37-4aca-8d0c-1788c216e13d" name="Changes" comment="version 2.0.2">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -261,7 +261,9 @@
       <workItem from="1695709252744" duration="5465000" />
       <workItem from="1695716945249" duration="7013000" />
       <workItem from="1695725762794" duration="7221000" />
-      <workItem from="1695882518728" duration="1406000" />
+      <workItem from="1695882518728" duration="2464000" />
+      <workItem from="1696243421241" duration="318000" />
+      <workItem from="1696321298415" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="checked server connection">
       <option name="closed" value="true" />
@@ -319,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695738366824</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="version 2.0.2">
+      <option name="closed" value="true" />
+      <created>1695884225617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695884225617</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +350,7 @@
     <MESSAGE value="checked server connection" />
     <MESSAGE value="version 1.0" />
     <MESSAGE value="version 2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 2.0" />
+    <MESSAGE value="version 2.0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 2.0.2" />
   </component>
 </project>
